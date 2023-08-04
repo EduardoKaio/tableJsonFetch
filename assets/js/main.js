@@ -47,9 +47,7 @@ function carregaElemento(json) {
             tr.appendChild(tdSalario)
     
             table.appendChild(tr)
-
         }
-
         i++
     }
     
